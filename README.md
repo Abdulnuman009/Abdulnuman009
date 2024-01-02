@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello 👋
 
 I'm Mohammed Abdul Numan, a passionate tech enthusiast from Hyderabad.
 
