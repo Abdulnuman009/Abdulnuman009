@@ -5,7 +5,7 @@ Full Stack & Cloud Engineer | React.js + FastAPI | GCP | AWS | Multi-Tenant Syst
 ---
 
 ## 🚀 About Me
-- 💼 Software Engineer at NeuralLabs
+- 💼 Software Engineer at NeuralLabs Pvt Ltd
 - ⚡ 2+ years building scalable backend & frontend systems
 - 🔐 Expertise in RBAC, multi-tenant architectures
 - ☁️ Deploying production systems on GCP
