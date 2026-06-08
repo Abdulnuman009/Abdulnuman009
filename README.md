@@ -124,7 +124,7 @@ interests:
 | 🏢 | **Software Engineer** | NeuralLabs Pvt Ltd | Feb 2024 – Present | Hyderabad, India |
 | 📊 | **Data Analyst Intern** | DataBeat | May 2025 – Aug 2025 | Hyderabad, India |
 
-### 🔑 Key Contributions at NeuralLabs
+### 🔑 Key Contributions
 
 | Area | Achievement |
 |---|---|
@@ -143,7 +143,7 @@ interests:
 <td width="50%">
 
 ### 🔭 AWS Observability Platform
-> *2025*
+> *2026*
 
 Production-inspired monitoring platform on AWS — multi-server metrics collection, alerting, and incident management.
 
