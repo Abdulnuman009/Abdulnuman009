@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Abdul%20Numan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20Cloud%20Engineer%20%7C%20Full%20Stack%20%7C%20GCP&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Abdul%20Numan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud-Focused%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20Platform%20Engineering&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer;EC2+%7C+S3+%7C+Lambda+%7C+VPC+%7C+RDS;Full+Stack%3A+React.js+%2B+FastAPI;Prometheus+%7C+Grafana+%7C+Observability;Multi-Tenant+%26+RBAC+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Software+Engineer;React.js+%2B+FastAPI+%2B+MongoDB;Cloud-Native+Applications;AWS+%26+GCP+Deployments;Observability+%7C+Grafana+%7C+OpenTelemetry;Multi-Tenant+%26+RBAC+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/mohammed-abdul-numan-7a1390229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -19,20 +19,27 @@
 
 ## 👨‍💻 About Me
 
+I'm a Software Engineer with 2.5+ years of experience building cloud-native applications,
+multi-tenant platforms, and scalable APIs. My work spans React.js, FastAPI, Firestore, MongoDB,
+cloud deployments, and observability — across both AWS and GCP. I enjoy designing systems
+that are reliable, secure, and easy to reason about in production.
+
 ```yaml
 name: Mohammed Abdul Numan
 location: Hyderabad, Telangana, India
-role: AWS Cloud Engineer & Full Stack Developer
+role: Software Engineer
 experience: 2.5+ years
 
-primary_cloud: AWS  # EC2, S3, IAM, VPC, Lambda, RDS, Route 53, SNS, EventBridge, ACM, ALB
+specialization:
+  - Full Stack Development (React.js + FastAPI)
+  - Cloud-Native & Multi-Tenant Architecture
+  - RBAC Systems & Secure API Design
+  - Observability & Infrastructure Monitoring
+  - Cloud Deployments (AWS & GCP)
 
-focus_areas:
-  - AWS Infrastructure Design & Cloud Architecture
-  - Observability: Prometheus, Grafana, Node Exporter, Alertmanager
-  - Cloud-Native & Multi-Tenant Application Development
-  - Backend APIs with FastAPI & Python
-  - Frontend Systems with React.js
+cloud_platforms:
+  - AWS   # EC2, S3, IAM, VPC, Lambda, RDS, Route 53, SNS, EventBridge, ACM, ALB
+  - GCP   # Compute Engine, GCS, Memorystore, Nginx, SSL/TLS
 
 currently_learning:
   - AWS Solutions Architecture (SAA-C03)
@@ -48,42 +55,6 @@ interests:
 ---
 
 ## 🛠️ Tech Stack
-
-### 🟠 AWS — Primary Cloud Platform
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ACM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 📡 Observability & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
-</p>
-
-### ☁️ Other Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
 ### 🧠 Backend & APIs
 <p>
@@ -110,6 +81,34 @@ interests:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### ☁️ Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+### 🔧 Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 📡 Observability & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
+</p>
+
 ---
 
 ## 💼 Experience
@@ -123,10 +122,11 @@ interests:
 
 | Area | Achievement |
 |---|---|
+| 🏗️ Multi-Tenant Systems | Built secure RBAC-based tenant architecture with Firestore, MongoDB & SQL |
+| ⚙️ Backend Engineering | Developed scalable FastAPI services, REST APIs, and cloud automation workflows |
 | ⚡ Auth Performance | Improved by ~40% using Redis (GCP Memorystore) for token caching |
 | 🔍 Observability | Reduced debugging & incident resolution time by ~60% with OpenTelemetry + Grafana |
-| ☁️ Cloud Infra | Managed production GCP workloads (Compute Engine, GCS, Nginx, SSL/TLS) |
-| 🏗️ Architecture | Designed multi-tenant RBAC systems with Firestore, MongoDB & SQL |
+| ☁️ Cloud Deployments | Managed production workloads across GCP (Compute Engine, GCS, Nginx) and AWS |
 | 🤖 AI Integration | Built workflows using OpenAI & Claude APIs |
 
 ---
@@ -155,6 +155,18 @@ Production-inspired monitoring platform on AWS — multi-server metrics collecti
 Scalable e-commerce backend with hybrid storage architecture.
 
 **Stack:** `React.js` `MUI` `FastAPI` `MySQL` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Real-Time Collaborative Code Editor
+> *Jan 2024 – Feb 2024*
+
+Live multi-user code editing with WebSocket sync and optimized document storage.
+
+**Stack:** `React.js` `WebSockets` `FastAPI` `Redis` `MongoDB`
 
 </td>
 </tr>
