@@ -133,19 +133,6 @@ Live multiplayer code editing with performance-optimized data layer.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abdulnuman009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulnuman009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulnuman009&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Year | Score |
