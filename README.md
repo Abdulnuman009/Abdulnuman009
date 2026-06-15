@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Abdul%20Numan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Cloud-Native%20Systems&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Abdul%20Numan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20AWS&descAlignY=51&descAlign=50" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+Cloud+Engineer;React.js+%2B+FastAPI+%2B+Python;Multi-Tenant+%26+RBAC+Systems;GCP+%7C+AWS+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
 
