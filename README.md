@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Abdul%20Numan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20AWS&descAlignY=51&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Cloud+Engineer;React.js+%E2%80%A2+FastAPI+%E2%80%A2+Python;AWS+%E2%80%A2+Observability+%E2%80%A2+DevOps;Building+Scalable+%26+Observable+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Cloud+Engineer;React.js+%E2%80%A2+FastAPI+%E2%80%A2+Python;AWS+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD;Building+Scalable+%26+Observable+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/mohammed-abdul-numan-7a1390229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,11 +23,13 @@ location: Hyderabad, Telangana, India
 role: Software Engineer
 
 experience:
-  - 2.5+ years building web applications and cloud solutions
+  - 2.5+ years building web applications and cloud infrastructure
 
 specialization:
   - Full Stack Development
   - Cloud Infrastructure (AWS & GCP)
+  - Infrastructure as Code (Terraform)
+  - CI/CD & Automation
   - Observability & Monitoring
   - Multi-Tenant SaaS Platforms
 
@@ -66,6 +68,16 @@ interests:
   <img src="https://img.shields.io/badge/Boto3-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### DevOps, IaC & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-40AEF0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
 ### Observability & Monitoring
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
@@ -75,6 +87,7 @@ interests:
   <img src="https://img.shields.io/badge/Node_Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch_Logs-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
   <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white"/>
 </p>
 
@@ -83,11 +96,11 @@ interests:
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Memorystore-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SSL/TLS-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge"/>
@@ -134,9 +147,11 @@ interests:
 
 | Area | Achievement |
 |---|---|
-| Auth Performance | Improved by ~40% using Redis (GCP Memorystore) for token caching |
+| Auth Performance | Improved by ~40% using Redis (AWS ElastiCache) for token caching |
 | Observability | Reduced debugging & incident resolution time by ~60% with OpenTelemetry + Grafana |
-| Cloud Infra | Managed production GCP workloads (Compute Engine, GCS, Nginx, SSL/TLS) |
+| CI/CD | Built and maintained GitHub Actions pipelines to automate build, test, and deployment workflows |
+| Infrastructure as Code | Provisioned multi-tier AWS infrastructure using Terraform (VPC, EC2, ALB, RDS, S3/DynamoDB state locking) |
+| Cloud Infra | Managed production AWS & GCP workloads (EC2, Compute Engine, GCS, Nginx, SSL/TLS) |
 | Architecture | Designed multi-tenant RBAC systems with Firestore, MongoDB & SQL |
 | AI Integration | Built workflows using OpenAI & Claude APIs |
 
@@ -148,24 +163,26 @@ interests:
 <tr>
 <td width="50%">
 
-### AWS Observability Platform
-> *2026*
+### Serverless Document Management System
+> *AWS Lambda · DynamoDB · EventBridge · Terraform*
 
-Production-grade observability platform implementing metrics, centralized logging, distributed tracing, alerting, and automated log archival on AWS.
+Serverless document platform with secure uploads and scalable REST APIs, plus an event-driven pipeline for async processing and notifications.
 
-**Stack:** `AWS EC2` `RDS` `CloudWatch` `Lambda` `S3` `Prometheus` `Grafana` `OpenTelemetry` `Tempo` `Alertmanager`
+**Stack:** `AWS Lambda` `API Gateway` `S3` `DynamoDB` `EventBridge` `SNS` `Terraform` `GitHub Actions`
 
-📌 Metrics · Logs · Traces · Alerting · Incident Management
+📌 Presigned URLs · Event-Driven · IaC · CI/CD
 
 </td>
 <td width="50%">
 
-### Cloud-Based E-Commerce Platform
-> *Jun 2023 – Aug 2023*
+### AWS Three-Tier Infrastructure & Observability
+> *Terraform · EC2 · ALB · RDS · Prometheus · Grafana*
 
-Scalable e-commerce backend with hybrid storage architecture.
+Highly available three-tier AWS architecture provisioned end-to-end with Terraform, with centralized observability for proactive multi-environment alerting.
 
-**Stack:** `React.js` `MUI` `FastAPI` `MySQL` `MongoDB`
+**Stack:** `Terraform` `VPC` `EC2` `ALB` `Auto Scaling` `RDS` `Prometheus` `Grafana` `Alertmanager` `CloudWatch`
+
+📌 IaC · High Availability · Multi-Environment Alerting
 
 </td>
 </tr>
